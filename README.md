@@ -1,1 +1,1 @@
-# eda-energy
+# Green Energy Data Analysis
